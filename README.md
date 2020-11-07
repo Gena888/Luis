@@ -1,2 +1,1 @@
-# Luis-fromPsd
-html+css_from_psd_maket
+https://gena888.github.io/Luis-fromPsd/
